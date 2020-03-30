@@ -1,7 +1,7 @@
 # PHP-MySQL---Project
 
 Here you'll find a project I made for college using PHP and SQL programming languages.
-Download the files, import the database frizerie.sql into MySQL. Don't forget to copy frizerie folder into your WAMP server or any other server that supports PHP.
+Download the archive, unzip the files, and import the database frizerie.sql into MySQL. Don't forget to copy frizerie folder into your WAMP server folder or any other server that supports PHP.
 In Documentatie_DAW.docx you'll find the documentation where you can find the steps made in developing the application. (It's in Romanian so good luck :D )
 In frizerie folder you can see the scripts, CSS files or auxiliary files needed.
 In scripturi_auxiliare folder you can find scripts used for creating or modifying the database.
